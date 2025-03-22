@@ -145,6 +145,7 @@ Returns the top  scores from the leaderboard.
 
 **Screenshot 2**
 - Leaderboard
+  ![alt text](https://github.com/gnikhilchand/Lyric-Match---AI-Powered-Song-Guessing-Game/blob/main/Screenshot%202025-03-22%20232715.png)
 
 ---
 
