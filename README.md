@@ -140,6 +140,8 @@ Returns the top  scores from the leaderboard.
 
 **Screenshot 1**
 - Home Screen
+- ![alt text](http://url/to/img.png)
+
 
 **Screenshot 2**
 - Leaderboard
