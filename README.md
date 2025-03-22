@@ -36,8 +36,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/lyric-match.git
-cd lyric-match
+git clone [https://github.com/your-username/lyric-match.git](https://github.com/gnikhilchand/Lyric-Match---AI-Powered-Song-Guessing-Game.git)
 ```
 
 ### Step 2: Set Up the Backend
