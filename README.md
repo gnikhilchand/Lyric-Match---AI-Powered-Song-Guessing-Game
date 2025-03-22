@@ -11,6 +11,7 @@
 - **Leaderboard:** Displays the top 10 scores.
 - **AI-Powered:** Uses an AI model to generate lyric snippets.
 - **User-Friendly Interface:** Clean and intuitive UI for a seamless experience.
+- **Model Used:** DeepSeek-r1
 
 ---
 
@@ -117,7 +118,7 @@ The frontend will run at [http://localhost:3000](http://localhost:3000).
    - If your guess is correct, your score increases.
    - If your guess is incorrect, the correct song title is displayed, and the page reloads after 2 seconds.
 5. **View the Leaderboard:**
-   - Click the "Show Leaderboard" button to see the top 10 scores.
+   - Click the "Show Leaderboard" button to see the top  scores.
 
 ---
 
@@ -132,7 +133,7 @@ Generates a lyric snippet and returns it along with the correct song title.
 Checks if the user's guess matches the correct song title and updates the score.
 
 #### `GET /leaderboard`
-Returns the top 10 scores from the leaderboard.
+Returns the top  scores from the leaderboard.
 
 ---
 
@@ -146,29 +147,10 @@ Returns the top 10 scores from the leaderboard.
 
 ---
 
-## Future Enhancements
-
-- Add more song categories (e.g., Pop, Rock, Hip-Hop).
-- Implement a timer for each round.
-- Add hints for difficult songs.
-- Support multiplayer mode.
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes.
-4. Submit a pull request.
-
----
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
 
 ---
 
@@ -176,6 +158,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions or feedback, please contact:
 
-- **Your Name** - your.email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Nikhil Chand** - 21f1003825@ds.study.iitm.ac.in
+
+- **GitHub:** [gnikhilchand](https://github.com/gnikhilchand)
 
