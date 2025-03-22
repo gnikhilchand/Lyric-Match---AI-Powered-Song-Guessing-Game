@@ -1,4 +1,4 @@
-# Lyric Match 🎵
+# Lyric-Match---AI-Powered-Song-Guessing-Game 🎵
 
 **Lyric Match** is a fun and interactive web application that challenges users to guess the title of an English song based on a short snippet of its lyrics. The app uses AI to generate lyric snippets and provides a leaderboard to track high scores.
 
