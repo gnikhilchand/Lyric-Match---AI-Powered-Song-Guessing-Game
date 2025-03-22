@@ -140,7 +140,7 @@ Returns the top  scores from the leaderboard.
 
 **Screenshot 1**
 - Home Screen
-- ![alt text](https://github.com/gnikhilchand/Lyric-Match---AI-Powered-Song-Guessing-Game/blob/main/Screenshot%202025-03-22%20231959.png))
+   ![alt text](https://github.com/gnikhilchand/Lyric-Match---AI-Powered-Song-Guessing-Game/blob/main/Screenshot%202025-03-22%20231959.png)
 
 
 **Screenshot 2**
