@@ -4,7 +4,7 @@
 
 ---
 
-# **Deployed_url:** ([https://github.com/gnikhilchand](https://song-guessing-game.vercel.app/))
+# **Deployed_url:** ([Song-Guessing-Game 🎵](https://song-guessing-game.vercel.app/))
 
 ## Features
 
