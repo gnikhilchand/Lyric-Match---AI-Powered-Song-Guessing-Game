@@ -4,6 +4,8 @@
 
 ---
 
+# **Deployed_url:** ([https://github.com/gnikhilchand](https://song-guessing-game.vercel.app/))
+
 ## Features
 
 - **Guess the Song:** Users can guess the song title based on a short lyric snippet.
